@@ -1,3 +1,3 @@
-[View Live Demo](https://margalucena.github.io/glass-login-page-ui/)
+[View Live Demo](https://katlucena.github.io/glass-login-page-ui/)
 
 ![Demo](preview.gif)
